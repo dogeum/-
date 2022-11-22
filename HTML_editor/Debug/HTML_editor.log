@@ -1,3 +1,7 @@
-﻿HTML.obj : error LNK2019: _push_testHtml 함수에서 참조되는 확인할 수 없는 외부 기호
+﻿  HTML.c
+  HtmlEditor.c
+  코드를 생성하고 있습니다...
+C:\Users\fffj0\source\repos\자료구조론\HTML_editor\HTML.c(22): warning C4716: 'testHtml': 값을 반환해야 합니다.
+HTML.obj : error LNK2019: _push_testHtml 함수에서 참조되는 확인할 수 없는 외부 기호
 HTML.obj : error LNK2019: _printHtml_testHtml 함수에서 참조되는 확인할 수 없는 외부 기호
 C:\Users\fffj0\source\repos\자료구조론\HTML_editor\Debug\HTML_editor.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
